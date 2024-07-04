@@ -1,0 +1,20 @@
+{
+  "name": "js_exercises",
+  "version": "1.0.0",
+  "description": "Here i made some practise to refresh js skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foitpawel/js_exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foitpawel/js_exercises/issues"
+  },
+  "homepage": "https://github.com/foitpawel/js_exercises#readme"
+}
