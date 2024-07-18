@@ -7,4 +7,3 @@ test('Make fibonacci of number 6', () => {
 test('Make fibonacci of number 1', () => {
   expect(fibonacci(1)).toEqual(1)
 });
-
