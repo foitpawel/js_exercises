@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/foitpawel/js_exercises/issues"
   },
-  "homepage": "https://github.com/foitpawel/js_exercises#readme"
+  "homepage": "https://github.com/foitpawel/js_exercises#readme",
+  "dependencies": {
+    "react": "^18.3.1"
+  }
 }
